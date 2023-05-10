@@ -10,7 +10,7 @@
 
   Eduland es una página de aterrizaje de educación completamente receptiva, <br />receptiva para todos los dispositivos, construida utilizando HTML, CSS y JavaScript.
 
-  <a href=""><strong>➥ Demo en vivo</strong></a>
+  <a href="https://elmanci2.github.io/educational-website/"><strong>➥ Demo en vivo</strong></a>
 
 </div>
 
@@ -33,13 +33,13 @@ Para ejecutar **Eduland** localmente, ejecute este comando en su git bash:
 Linux y macOS:
 
 ```bash
-sudo git clone 
+sudo git clone https://github.com/elmanci2/educational-website.git
 ```
 
 Windows:
 
 ```bash
-git clone 
+git clone https://github.com/elmanci2/educational-website.git
 ```
 
 
